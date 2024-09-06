@@ -4,6 +4,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramitbadgami&label=Profile%20views&color=0e75b6&style=flat" alt="pramitbadgami" /> </p>
 
+- 🌱 I’m currently learning **NextJS, TypeScript, Flutter**
+
+- 💬 Ask me about **laravel, javascript, mysql, react**
+
+- 📫 How to reach me **pramitbadgami2@gmail.com**
+
+- 📄 Know about my experiences https://drive.google.com/file/d/1AOV52dt7OASp5gMTAq-2t-J3IJkrQXhj/view?usp=sharing
+
+- ⚡ Fun fact **I’m a movie buff who finds inspiration in films—storytelling is everywhere! 🎥**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pramit badgami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pramit badgami" height="30" width="40" /></a>
