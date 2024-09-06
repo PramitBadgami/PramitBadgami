@@ -1,4 +1,4 @@
-![logo](https://github.com/shishirghimire027/shishirghimire027/blob/main/Banner.png)
+<img src="https://github.com/PramitBadgami/PramitBadgami/blob/main/Banner.png" alt="logo" style="width: 100%; height: auto;" />
 <h1 align="center">Hi 👋, I'm Pramit Badgami</h1>
 <h3 align="center">A passionate frontend developer from Kathmandu, Nepal</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **pramitbadgami2@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1AOV52dt7OASp5gMTAq-2t-J3IJkrQXhj/view?usp=sharing
+- 📄 Know about my experiences (https://drive.google.com/file/d/1AOV52dt7OASp5gMTAq-2t-J3IJkrQXhj/view?usp=sharing)
 
 - ⚡ Fun fact **I’m a movie buff who finds inspiration in films—storytelling is everywhere! 🎥**
 
