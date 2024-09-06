@@ -1,3 +1,4 @@
+![logo](https://github.com/shishirghimire027/shishirghimire027/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Pramit Badgami</h1>
 <h3 align="center">A passionate frontend developer from Kathmandu, Nepal</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -6,7 +7,7 @@
 
 - 🌱 I’m currently learning **NextJS, TypeScript, Flutter**
 
-- 💬 Ask me about **laravel, javascript, mysql, react**
+- 💬 Ask me about **Laravel, JavaScript, MySQL, React**
 
 - 📫 How to reach me **pramitbadgami2@gmail.com**
 
