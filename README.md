@@ -28,12 +28,13 @@
 <p>
   <img 
     align="left" 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=pramitbadgami&layout=compact&exclude_repo=HTML" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=pramitbadgami&layout=compact&exclude_repo=HTML&theme=dark" 
     alt="pramitbadgami" 
   />
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pramitbadgami&show_icons=true&locale=en" alt="pramitbadgami" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pramitbadgami&show_icons=true&locale=en&theme=dark" alt="pramitbadgami" /></p>
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=pramitbadgami&theme=dark&hide_border=false)<br/>
 
