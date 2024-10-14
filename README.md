@@ -33,7 +33,7 @@
     src="https://github-readme-stats.vercel.app/api/top-langs?username=pramitbadgami&layout=compact&exclude_repo=HTML&theme=dark" 
     alt="pramitbadgami" 
   />
-</p>
+</p> 
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pramitbadgami&show_icons=true&locale=en&theme=dark" alt="pramitbadgami" /></p>
