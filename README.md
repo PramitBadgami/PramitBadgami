@@ -36,8 +36,14 @@
   />
 </p> 
 
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pramitbadgami&show_icons=true&locale=en&theme=dark" alt="pramitbadgami" /></p>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pramitbadgami&theme=dark&hide_border=false)<br/>
 
+<!-- Snake Contrib Graph -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuluW8071/LuluW8071/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LuluW8071/luluw8071/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
