@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **pramitbadgami2@gmail.com**
 
-- 📄 Know about my experiences <a target="_blank" href="https://drive.google.com/file/d/1AOV52dt7OASp5gMTAq-2t-J3IJkrQXhj/view?usp=sharing">https://drive.google.com/file/d/1AOV52dt7OASp5gMTAq-2t-J3IJkrQXhj/view?usp=sharing</a>
-
 - ⚡ Fun fact **I’m a movie buff who finds inspiration in films—storytelling is everywhere! 🎥**
 
 <h3 align="left">Connect with me:</h3>
